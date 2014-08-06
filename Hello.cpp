@@ -9,4 +9,9 @@ a=5;
 b=9;
 c= a+b;
 cout<<"Addition is : "<<c;
+
+a=5;
+b=9;
+c= a-b;
+cout<<"Substraction is : "<<c;
 }
